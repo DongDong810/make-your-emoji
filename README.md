@@ -55,7 +55,7 @@ enabling the creation of fully controllable videos.
 <table align="center">
   <tr>
     <td align="center">
-      <img src="assets/images/3.png"/>'
+      <img src="assets/images/3.png"/>
       <br />
     </td>
     </td>
