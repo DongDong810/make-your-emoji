@@ -1,14 +1,14 @@
 # Make your own emoji 🤩
 
 ## Introduction 🐣
-This project was conducted as part of a competition organized by the YAI Conference (October 2024 - December 2024).
-The goal of this project is to create short video-like emojis personalized to items or beings that individuals cherish, such as pets or belongings. 
-With just 3-5 photos, users can generate emojis tailored to their preferences! 
+This project was conducted as part of a competition organized by the YAI Conference (October 2024 - December 2024). \
+The goal of this project is to create short video-like emojis personalized to items or beings that individuals cherish, such as pets or belongings. \
+With just 3-5 photos, users can generate emojis tailored to their preferences! \
 The model is designed to be user-friendly, allowing users not only to add descriptive text but also to assign their own trajectories, enabling greater control and creativity.
 
 ## Model Architecture 🔥
-This model leverages the DreamBooth framework to fine-tune and store the user's photos with a unique identifier. 
-Once fine-tuned, the model allows users to input a text prompt, which generates an image that passes through an image-to-video model. 
+This model leverages the DreamBooth framework to fine-tune and store the user's photos with a unique identifier. \
+Once fine-tuned, the model allows users to input a text prompt, which generates an image that passes through an image-to-video model. \
 The generated output can be further enhanced by allowing users to directly provide trajectories or motion brushes, 
 enabling the creation of fully controllable videos.
 
@@ -47,7 +47,7 @@ enabling the creation of fully controllable videos.
   </tr>
   <tr>
     <td colspan="3" align="center" style="border: none;">
-      A photo of [V] fox plushie standing against the tree in the forest.
+      A photo of [V] otter plushie standing in a garden surrounded by flowers.
     </td>
   </tr>
 </table>
@@ -66,7 +66,7 @@ enabling the creation of fully controllable videos.
   </tr>
   <tr>
     <td colspan="3" align="center" style="border: none;">
-      A photo of [V] otter plushie standing in a garden surrounded by flowers.
+      A photo of [V] fox plushie standing against the tree in the forest.
     </td>
   </tr>
 </table>
